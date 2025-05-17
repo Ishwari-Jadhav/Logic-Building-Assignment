@@ -18,4 +18,3 @@ int main()
     printf("Converted Temperature is:%f",dRet);
     return 0;
 }
-//time complexity : O(N)
