@@ -20,5 +20,3 @@ int main()
     TableRev(iValue);
     return 0;
 }
-
-//time complexity : O(N)
